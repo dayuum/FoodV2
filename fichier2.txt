@@ -1,0 +1,3 @@
+5;"concombre";50;2.6
+6;"fromage";20;2
+3;"tomate";20;1.50
